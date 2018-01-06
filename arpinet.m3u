@@ -1,0 +1,228 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+#EXTINF:1, H1
+http://timeshift.arpinet.am:8091/1/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:4, Armenia
+http://timeshift.arpinet.am:8091/4/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:5, Shant
+http://timeshift.arpinet.am:8091/5/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:6, H2
+http://timeshift.arpinet.am:8091/6/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:12, ԱԹՎ
+http://timeshift.arpinet.am:8091/12/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:13, Hay TV
+http://timeshift.arpinet.am:8091/13/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:14, Tava TV
+http://timeshift.arpinet.am:8091/14/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:15, Xaghaliq
+http://timeshift.arpinet.am:8091/15/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:16, Kinoman
+http://timeshift.arpinet.am:8091/16/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:17, Filmzone
+http://timeshift.arpinet.am:8091/17/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:18, ArmFilm HD
+http://timeshift.arpinet.am:8091/18/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:19, Ararat
+http://timeshift.arpinet.am:8091/19/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:20, Erkir media
+http://timeshift.arpinet.am:8091/20/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:21, H3
+http://timeshift.arpinet.am:8091/21/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:22, 21 TV
+http://timeshift.arpinet.am:8091/22/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:23, AR
+http://timeshift.arpinet.am:8091/23/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:24, Shoghakat
+http://timeshift.arpinet.am:8091/24/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:25, Ort 
+http://timeshift.arpinet.am:8091/25/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:27, Rossiya 1
+http://timeshift.arpinet.am:8091/27/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:28, Ren-TV
+http://timeshift.arpinet.am:8091/28/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:29, НТВ
+http://timeshift.arpinet.am:8091/29/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:30, ТНТ
+http://timeshift.arpinet.am:8091/30/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:31, СТС
+http://timeshift.arpinet.am:8091/31/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:32, ЧЕ
+http://timeshift.arpinet.am:8091/32/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:33, Россия Культура
+http://timeshift.arpinet.am:8091/33/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:34, Россия 24
+http://timeshift.arpinet.am:8091/34/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:35, Домашний
+http://timeshift.arpinet.am:8091/35/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:36, France 24
+http://timeshift.arpinet.am:8091/36/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:37, CNN
+http://timeshift.arpinet.am:8091/37/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:38, Музыка 1
+http://timeshift.arpinet.am:8091/38/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:39, ТДК
+http://timeshift.arpinet.am:8091/39/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:40, Загородная жизнь
+http://timeshift.arpinet.am:8091/40/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:41, Носталгия
+http://timeshift.arpinet.am:8091/41/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:42, Ля минор
+http://timeshift.arpinet.am:8091/42/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:43, Nick Jr
+http://timeshift.arpinet.am:8091/43/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:44, Disney
+http://timeshift.arpinet.am:8091/44/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:45, Карусель
+http://timeshift.arpinet.am:8091/45/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:46, Кухня ТВ
+http://timeshift.arpinet.am:8091/46/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:47, Телекафе
+http://timeshift.arpinet.am:8091/47/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:48, National Geographic
+http://timeshift.arpinet.am:8091/48/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:49, Nat Geo Wild
+http://timeshift.arpinet.am:8091/49/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:50, Discovery
+http://timeshift.arpinet.am:8091/50/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:51, Animal Planet
+http://timeshift.arpinet.am:8091/51/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:52, Охота и рыбалка
+http://timeshift.arpinet.am:8091/52/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:53, 365
+http://timeshift.arpinet.am:8091/53/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:54, Авто+
+http://timeshift.arpinet.am:8091/54/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:55, Боец
+http://timeshift.arpinet.am:8091/55/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:56, Футбол 1
+http://timeshift.arpinet.am:8091/56/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:57, Дом кино
+http://timeshift.arpinet.am:8091/57/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:58, Кинохит
+http://timeshift.arpinet.am:8091/58/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:59, Киносемья
+http://timeshift.arpinet.am:8091/59/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:60, Индийское Кино
+http://timeshift.arpinet.am:8091/60/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:61, Матч!
+http://timeshift.arpinet.am:8091/61/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:62, Доктор
+http://timeshift.arpinet.am:8091/62/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:63, Наше новое кино
+http://timeshift.arpinet.am:8091/63/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:64, Киносерия
+http://timeshift.arpinet.am:8091/64/index.m3u8
+
+#EXTVLCOPT:network-caching=1000
+#EXTINF:65, FOX
+http://timeshift.arpinet.am:8091/65/index.m3u8
